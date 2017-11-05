@@ -3,7 +3,7 @@ from pygame.locals import*
 from variables import*
 
 #test
-print(player.hexamone.spells['e'])
+print(player.hexamone.spells['a'])
 # player.attack('e', pnj)
 # print(pnj.hexamone.hp)
 # -->
@@ -21,14 +21,18 @@ while game:
         
         if e.type == KEYDOWN:
 
-            if e.key == K_a:
+            if e.key == K_q:
                 player.attack('a', pnj)
-            if e.key == K_z:
+
+            if e.key == K_w:
                 player.attack('z', pnj)
+
             if e.key == K_e:
                 player.attack('e', pnj)
+                
             if e.key == K_r:
                 player.attack('r', pnj)
+
         #exit game
         if e.type == QUIT:
             pygame.quit()
