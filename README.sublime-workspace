@@ -1,0 +1,930 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"start"
+			],
+			[
+				"son",
+				"son4"
+			],
+			[
+				"find",
+				"finder"
+			],
+			[
+				"s",
+				"show"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"get",
+				"getContext"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"li",
+				"list\tlist-style-type"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bode",
+				"border"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"todo",
+				"todolist"
+			],
+			[
+				"ti",
+				"todolist"
+			],
+			[
+				"ur",
+				"urlencodedParser"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"to",
+				"todolist"
+			],
+			[
+				"tod",
+				"todolist"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"r",
+				"res"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"req",
+				"req"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"key",
+				"keyboard"
+			],
+			[
+				"obj",
+				"obj2"
+			],
+			[
+				"ob",
+				"obj1"
+			],
+			[
+				"coll",
+				"collide"
+			],
+			[
+				"colli",
+				"collideBot"
+			],
+			[
+				"o",
+				"obs"
+			],
+			[
+				"fl",
+				"fillRect"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"pv",
+				"pvTotal"
+			],
+			[
+				"dr",
+				"drawImage"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fil",
+				"fillStyle"
+			],
+			[
+				"fi",
+				"fillStyle"
+			],
+			[
+				"cd",
+				"cdTotal"
+			],
+			[
+				"def",
+				"defTotal"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"hea",
+				"head\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"can",
+				"canLoad"
+			],
+			[
+				"b",
+				"buttonPlay"
+			],
+			[
+				"lance",
+				"lance_2"
+			],
+			[
+				"mou",
+				"mouseValue"
+			],
+			[
+				"la",
+				"lance_1"
+			],
+			[
+				"l",
+				"layer"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"image",
+				"images"
+			],
+			[
+				"gay",
+				"gayMax"
+			],
+			[
+				"game",
+				"gameOn"
+			],
+			[
+				"ro",
+				"rotation"
+			],
+			[
+				"set",
+				"setCardPos"
+			],
+			[
+				"pl",
+				"playerPlayed"
+			],
+			[
+				"pla",
+				"playerMana"
+			],
+			[
+				"play",
+				"playerPlayed"
+			],
+			[
+				"ai",
+				"aiCard"
+			],
+			[
+				"p1",
+				"p1"
+			],
+			[
+				"a",
+				"aiCard"
+			],
+			[
+				"g",
+				"gameState"
+			],
+			[
+				"ge",
+				"getCard"
+			],
+			[
+				"p",
+				"p1"
+			],
+			[
+				"deck",
+				"DECK"
+			],
+			[
+				"nump",
+				"numpad3"
+			],
+			[
+				"n",
+				"numpad1"
+			],
+			[
+				"strok",
+				"strokeStyle"
+			],
+			[
+				"str",
+				"strokeRect"
+			],
+			[
+				"per",
+				"Perso"
+			],
+			[
+				"perso1",
+				"perso1"
+			],
+			[
+				"perso",
+				"perso1pos"
+			],
+			[
+				"child",
+				"child2"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"sc",
+				"scene"
+			],
+			[
+				"add",
+				"addCard"
+			],
+			[
+				"card",
+				"cardSelected"
+			],
+			[
+				"ba",
+				"battleArea"
+			],
+			[
+				"batt",
+				"battleCard"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"B",
+				"battle"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"table",
+				"tableAdv"
+			],
+			[
+				"pre",
+				"prevTarget"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"button",
+				"buttons"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"buton",
+				"buttons"
+			],
+			[
+				"mo",
+				"moove"
+			],
+			[
+				"ac",
+				"actualColor"
+			],
+			[
+				"start",
+				"startY"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"font",
+				"fontSize"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"c",
+				"ctx"
+			],
+			[
+				"cn",
+				"console"
+			],
+			[
+				"Op",
+				"OPTIONS"
+			],
+			[
+				"co",
+				"coeff"
+			],
+			[
+				"Fill",
+				"fillRect"
+			],
+			[
+				"time",
+				"timeLeft"
+			],
+			[
+				"brea",
+				"breathDir"
+			],
+			[
+				"breat",
+				"breathInc"
+			],
+			[
+				"wid",
+				"window"
+			],
+			[
+				"KEY",
+				"keyCode"
+			],
+			[
+				"Ke",
+				"keyCode"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"coi",
+				"coin"
+			],
+			[
+				"coin",
+				"coinImage"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"rotat",
+				"rotation"
+			],
+			[
+				"th",
+				"thomas"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"contain",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"D",
+				"DISPLAY"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bo",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"box",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"sni",
+				"Snippet: html"
+			],
+			[
+				"e",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Bo",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"package d",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"Gr",
+				"Set Syntax: Groovy"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			],
+			[
+				"Box",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"Set Syntax: H",
+				"Set Syntax: Haxe"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"Package con",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"package l",
+				"Package Control: List Packages"
+			],
+			[
+				"pyth",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ckage",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"BOx",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 64.0,
+		"history":
+		[
+			"python",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/arthur/Documents/Perso^^/code/learn lua/test.lua",
+		"/C/Users/arthur/AppData/Local/Programs/Python/Python35/Tools/parser/unparse.py",
+		"/C/Users/arthur/Documents/GitHub/hexamone/ArthurRelease/setup.py",
+		"/C/Users/arthur/Documents/arthur/code/httpserv/serv.py",
+		"/C/Users/arthur/Documents/maLib/src/main.js",
+		"/C/Users/arthur/Documents/Perso^^/menue.html",
+		"/C/Users/arthur/Documents/Perso^^/dragForPlay.js",
+		"/C/Users/arthur/Documents/Perso^^/mobile.html",
+		"/C/Users/arthur/Documents/Perso^^/code/python/TEST JEU EN PAGAILLE/donkey Kong/dk.py",
+		"/C/Users/arthur/Documents/Perso^^/code/python/userevents.py",
+		"/C/Users/arthur/Documents/Perso^^/code/python/changeChar.py",
+		"/C/Users/arthur/Documents/Perso^^/code/python/indev tool/setup_tk.py",
+		"/C/Users/arthur/Documents/Perso^^/code/python/s.py",
+		"/C/Users/arthur/Documents/Perso^^/code/python/shootemup/main.py",
+		"/C/Users/arthur/Documents/Perso^^/code/python/relearn/maps.py",
+		"/C/Users/arthur/Documents/Perso^^/code/python/relearn/Class.py",
+		"/C/Users/arthur/Documents/Perso^^/code/python/moteur 3d iso/civLikeCollision/main.py",
+		"/C/Users/arthur/Documents/Perso^^/code/python/moteur 3d iso/civLikeCollision/Engine.py",
+		"/C/Users/arthur/Documents/Perso^^/code/python/moteur 3d iso/INDEV ENGINE/Engine.py",
+		"/C/Users/arthur/Downloads/HASH.py",
+		"/C/Users/arthur/Documents/Perso^^/code/test p5/cell.html",
+		"/C/Users/arthur/Documents/Perso^^/code/test p5/main.js",
+		"/C/Users/arthur/Documents/Perso^^/code/python/CURSOR/cursor.py",
+		"/C/Users/arthur/Documents/Perso^^/code/python/CURSOR/setup_side_cursor.py",
+		"/C/Users/arthur/Documents/Perso^^/code/test p5/1sketchh.js/sketch.js",
+		"/C/Users/arthur/Documents/Perso^^/code/test p5/index.html",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/main.html",
+		"/C/Users/arthur/Documents/Perso^^/load.html",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/dimension.html",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/hex.js",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/test.js",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/js3.js",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/Scanlines.js",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/main.js",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/main2.js",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/index.html",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/obj.js",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/class.js",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/function.js",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/rotate.html",
+		"/C/Users/arthur/Documents/Perso^^/code/JS GAME/flip coin/index.html",
+		"/C/Users/arthur/Documents/Perso^^/code/JS GAME/flip coin/flip.js",
+		"/C/Users/arthur/Documents/Perso^^/code/JS GAME/game.js",
+		"/C/Users/arthur/Documents/Perso^^/code/JS GAME/felix.html",
+		"/C/Users/arthur/Documents/Perso^^/code/JS GAME/index.html",
+		"/C/Users/arthur/Documents/Perso^^/code/JS GAME/anim.html",
+		"/C/Users/arthur/Documents/Perso^^/code/JS GAME/anim.js",
+		"/C/Users/arthur/Documents/Perso^^/code/JS GAME/avatar.html",
+		"/C/Users/arthur/Documents/Perso^^/hr.html",
+		"/C/Users/arthur/Documents/GitHub/week2/path3.py",
+		"/C/Users/arthur/Documents/GitHub/week2/path2.py",
+		"/C/Users/arthur/Documents/GitHub/week2/path.py",
+		"/C/Users/arthur/Documents/GitHub/week1/learn/recurse.py",
+		"/C/Users/arthur/Documents/GitHub/week1/learn/loop.py",
+		"/C/Users/arthur/Documents/Perso^^/code/python/Chara moving/Player.py",
+		"/C/Users/arthur/Documents/Perso^^/code/python/relearn/class.py",
+		"/C/Users/arthur/Documents/Perso^^/code/python/moteur 3d iso/INDEV ENGINE/main.py",
+		"/C/Users/arthur/Documents/Perso^^/code/GAME JAM INDEV/JAM 3/gui_input.py",
+		"/C/Users/arthur/Documents/Perso^^/code/GAME JAM INDEV/JAM 3/gui_1_items_generating.py",
+		"/C/Users/arthur/Documents/Perso^^/code/LIVE VODING/LIVE 4/index.html",
+		"/C/Users/arthur/Documents/Perso^^/code/LIVE VODING/LIVE 4/maLib.js",
+		"/C/Users/arthur/Documents/GitHub/FloatingLib/README.md",
+		"/C/Users/arthur/Documents/maLib/infos.json",
+		"/C/Users/arthur/Documents/mcp/jars/saves/MCP Development World/level.dat",
+		"/C/Users/arthur/Documents/Perso^^/code/NODE OC/2app/views/todo.ejs",
+		"/C/Users/arthur/Documents/Perso^^/code/NODE OC/2app/main.js",
+		"/C/Users/arthur/Documents/Perso^^/code/NODE OC/1app/views/index.ejs",
+		"/C/Users/arthur/Documents/Perso^^/code/NODE OC/1app/views/compteur.ejs",
+		"/C/Users/arthur/Documents/Perso^^/code/NODE OC/1app/main.js",
+		"/C/Users/arthur/Documents/Perso^^/code/NODE OC/to do list/todo.js",
+		"/C/Users/arthur/Documents/Perso^^/code/NODE OC/1app",
+		"/C/Users/arthur/Documents/Perso^^/code/NODE OC/to do list/views/todo.ejs",
+		"/C/Users/arthur/Documents/Perso^^/code/NODE OC/to do list/package.json",
+		"/C/Users/arthur/Documents/Perso^^/code/LIVE VODING/LIVE 2/views/index.ejs",
+		"/C/Users/arthur/Documents/Perso^^/code/LIVE VODING/LIVE 2/serverExpress.js",
+		"/C/Users/arthur/Documents/Perso^^/code/LIVE VODING/LIVE 2/view/index.ejs",
+		"/C/Users/arthur/Documents/Perso^^/code/NODE OC/to do list/todo.ejs",
+		"/C/Users/arthur/Documents/Perso^^/code/LIVE VODING/LIVE 2/package.json",
+		"/C/Users/arthur/Documents/Perso^^/code/LIVE VODING/LIVE 2/server.js",
+		"/C/Users/arthur/Documents/Perso^^/canon game/canon2.html",
+		"/C/Users/arthur/Documents/Perso^^/code/LIVE VODING/live1.html",
+		"/C/Users/arthur/Documents/Perso^^/canon game/game.js",
+		"/C/Users/arthur/Documents/Perso^^/code/htt v3/class.js",
+		"/C/Users/arthur/Documents/Perso^^/code/htt v3/main.js",
+		"/C/Users/arthur/Documents/Perso^^/code/htt v3/index.html",
+		"/E/htt v3/main.js",
+		"/E/htt v3/class.js",
+		"/E/htt v3/index.html",
+		"/C/Users/arthur/Documents/Perso^^/FLOATING DREAMS/index.html",
+		"/C/Users/arthur/Documents/Perso^^/FLOATING DREAMS/index.css",
+		"/C/Users/arthur/Documents/Perso^^/FLOATING DREAMS/showcase.html",
+		"/C/Users/arthur/Documents/Perso^^/canon game/menue.js",
+		"/C/Users/arthur/Downloads/ISN/ISN/Accueil.html",
+		"/C/Users/arthur/Documents/Perso^^/Octagone/site web/index-octagone.html",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/canon.html",
+		"/C/Users/arthur/Documents/Perso^^/code/pg.js/canon2.html",
+		"/C/Users/arthur/Documents/Perso^^/code/HTML/reffrax/refrax.js",
+		"/C/Users/arthur/Documents/Perso^^/code/mapGenerator/mapGenerator.js",
+		"/C/Users/arthur/Documents/Perso^^/card game final version/script/rotate.html",
+		"/C/Users/arthur/Documents/Perso^^/card game final version/script/player.js",
+		"/C/Users/arthur/Documents/Perso^^/card game final version/script/card.js",
+		"/C/Users/arthur/Documents/Perso^^/card game final version/script/gameGestion.js",
+		"/C/Users/arthur/Documents/Perso^^/card game final version/vtest.html",
+		"/C/Users/arthur/Pictures/Capture.MHT",
+		"/C/Users/arthur/Documents/Perso^^/proto HTT/script/main2.js",
+		"/C/Users/arthur/Documents/GitHub/Hack-the-Tower/script/Dungeon.js",
+		"/C/Users/arthur/Documents/Perso^^/card game/script/player.js",
+		"/C/Users/arthur/Documents/Perso^^/card game/script/gameGestion.js",
+		"/C/Users/arthur/Documents/Perso^^/card game/script/card.js",
+		"/C/Users/arthur/Documents/Perso^^/card game/vtest.html",
+		"/C/Users/arthur/Documents/Perso^^/card game/tuto.js",
+		"/C/Users/arthur/Documents/Perso^^/code/HTTV2/index.html",
+		"/C/Users/arthur/Documents/Perso^^/code/HTTV2/script/main.js",
+		"/C/Users/arthur/Documents/Perso^^/code/HTTV2/script/boss.js",
+		"/C/Users/arthur/Documents/Perso^^/code/HTTV2/script/class.js",
+		"/C/Users/arthur/Documents/Perso^^/code/mapGenerator/mapGenerator.html",
+		"/C/Users/arthur/Documents/Perso^^/card game/player.js",
+		"/C/Users/arthur/Documents/Perso^^/card game/card.js",
+		"/C/Users/arthur/Documents/Perso^^/card game/cardGame.js",
+		"/C/Users/arthur/Documents/Perso^^/card game/test.py",
+		"/C/Users/arthur/Documents/Perso^^/card game/cardGame.html",
+		"/C/Users/arthur/Documents/Perso^^/code/test p5/kanji.html",
+		"/C/Users/arthur/Documents/Perso^^/code/python/TEST JEU EN PAGAILLE/collision.py",
+		"/C/Users/arthur/Documents/Perso^^/code/JS GAME/3d/3dGame.html",
+		"/C/Users/arthur/Documents/Perso^^/code/JS GAME/3dGame.html",
+		"/C/Users/arthur/Documents/Perso^^/test p5/main.js",
+		"/C/Users/arthur/Documents/Perso^^/test p5/index.html",
+		"/C/Users/arthur/Documents/Perso^^/test p5/bug.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Lua/Lua.sublime-build",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
